@@ -1,4 +1,4 @@
-## Stock portfolio calculation
+# Stock portfolio calculation
 
 ## 개요 
 
